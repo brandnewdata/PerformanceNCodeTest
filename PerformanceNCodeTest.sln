@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestCodes", "TestCodes", "{
 		TestCodes\AtomicSpeedMeasurement.cpp = TestCodes\AtomicSpeedMeasurement.cpp
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{19BE1E69-1E85-41A4-96BA-A42600555FBF}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "README", "README", "{19BE1E69-1E85-41A4-96BA-A42600555FBF}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
 	EndProjectSection
