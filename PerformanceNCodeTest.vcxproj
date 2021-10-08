@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TestCodes\MoveConstructorExam_choi_hoseong_4.3.cpp" />
+    <ClCompile Include="TestCodes\OverlapedPointer.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
