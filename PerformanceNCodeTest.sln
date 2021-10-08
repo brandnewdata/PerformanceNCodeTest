@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestCodes", "TestCodes", "{40D70C35-3FE1-49B9-AD3C-D76133355919}"
 	ProjectSection(SolutionItems) = preProject
 		TestCodes\AtomicSpeedMeasurement.cpp = TestCodes\AtomicSpeedMeasurement.cpp
+		TestCodes\MoveConstructorExam_choi_hoseong_4.3.cpp = TestCodes\MoveConstructorExam_choi_hoseong_4.3.cpp
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "README", "README", "{19BE1E69-1E85-41A4-96BA-A42600555FBF}"
